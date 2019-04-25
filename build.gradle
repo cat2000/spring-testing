@@ -43,7 +43,5 @@ dependencies {
 	testCompile('org.seleniumhq.selenium:selenium-chrome-driver:3.141.59')
 	testCompile('org.seleniumhq.selenium:selenium-remote-driver:3.141.59')
 	testCompile('org.seleniumhq.selenium:selenium-api:3.141.59')
-	testCompile('au.com.dius:pact-jvm-consumer-junit_2.12:3.5.5')
-	testCompile('au.com.dius:pact-jvm-provider-spring_2.12:3.5.5')
 	testCompile('io.github.bonigarcia:webdrivermanager:3.3.0')
 }

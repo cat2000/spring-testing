@@ -16,6 +16,7 @@ import static org.mockito.BDDMockito.anyString;
 import static org.mockito.BDDMockito.given;
 import static org.mockito.MockitoAnnotations.initMocks;
 
+// unit test
 public class ExampleControllerTest {
 
     private ExampleController subject;
